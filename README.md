@@ -9,6 +9,8 @@
 
 -Fluent in: Korean & English-
 
+-Email: wnsqoqo@gmail.com-
+
 
 
 
