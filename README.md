@@ -1,4 +1,4 @@
-![Joon-Bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joon-Bae&theme=blue-green)
+![Joon-Bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joon-Bae&theme=panda)
 
 <!--
 **Joon-Bae/Joon-Bae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
