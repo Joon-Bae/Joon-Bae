@@ -9,7 +9,7 @@
 
 -Fluent in: Korean & English-
 
--Email: wnsqoqo@gmail.com-
+Email: wnsqoqo@gmail.com
 
 
 
