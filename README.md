@@ -2,7 +2,7 @@
 
 -Hello, my name is Joon Bae (pronounced june bay)-
 
--Korea Born, America grown-
+-:kr: Korea Born, :us: America grown-
 
 -Chasing my dream of becoming a software developer-
 (enrolled in App Academy Full Stack development)
