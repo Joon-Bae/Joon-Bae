@@ -1,4 +1,4 @@
-![Joon-Bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joon-Bae&count_score=true&theme=react)
+![Joon-Bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joon-Bae&count_score=true)
 
 -Hello, my name is Joon Bae (pronounced june bay)-
 
