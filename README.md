@@ -7,7 +7,7 @@
 -Chasing my dream of becoming a software developer-
 (enrolled in App Academy Full Stack development)
 
--Fluent in: Korean & English-
+-Fluent in: Korean & English
 
 Email: wnsqoqo@gmail.com
 
