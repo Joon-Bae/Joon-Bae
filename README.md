@@ -11,6 +11,8 @@
 
 -Email: wnsqoqo@gmail.com
 
+-Discord: Joon Bae#2277
+
 
 
 
