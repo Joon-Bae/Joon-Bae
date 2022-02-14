@@ -1,4 +1,4 @@
-[![Joon-Bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joon-Bae)](https://github.com/Joon-Bae/github-readme-stats)
+[![Joon-Bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joon-Bae&count_private=true)](https://github.com/Joon-Bae/github-readme-stats)
 
 -Hello, my name is Joon Bae (pronounced june bay)-
 
