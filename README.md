@@ -8,13 +8,3 @@
 (currently enrolled in App Academy Full Stack development course)
 
 -Fluent in: Korean & English
-
--Email: wnsqoqo@gmail.com
-
-
-
-
-
-
-
-
