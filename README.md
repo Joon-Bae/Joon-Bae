@@ -7,4 +7,4 @@
 -Chasing my dream of becoming a software developer
 (currently enrolled in App Academy Full Stack development course)
 
--Fluent in: Korean & English
+-Fluent in: Korean & English-
